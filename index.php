@@ -25,18 +25,39 @@
     </div>
 </div>
 
+
 <!-- corps du site  -->
 <div class="container-fluid ">
+    <div class="card">
+        <div class="imgBox">
+            <img src="jarditou.png" alt="Logo Jarditou">
+        </div>
+        <div class="content">
+            <h2>Jarditou</h2>
+            <p>Projet AFPA techniques de base 20103: création du site Web Jarditou suivant une maquette</p>
+        </div>
+    </div>
 
+    <div class="card">
+        <div class="imgBox">
+            <img src="favicon.png" alt="logo ZB">
+        </div>
+        <div class="content">
+            <h2>Mon CV</h2>
+            <p>Projet AFPA techniques de base 20103: création d'un CV en ligne (première version)</p>
+        </div>
+    </div>
 
-
-
-
-
-
-
-
-
+    <div class="card">
+        <div class="imgBox">
+            <img src="photo.png"">
+        </div>
+        <div class="content">
+            <h2>Photographie</h2>
+            <p>Projet personnel: création d'un site Web pour un photographe professionnel suivant une maquette que
+                j'ai realisée</p>
+        </div>
+    </div>
 
 </div>
 <!-- Optional JavaScript-->
